@@ -1,0 +1,97 @@
+<keymap version="1" name="Emacs copy 1" parent="Emacs">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
+  </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
+  <action id="CloseAllEditors" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="Console.Execute">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="Diff.PrevChange">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="DirDiffMenu.SynchronizeDiff" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="ctrl x" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="shift back_space" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="EditorSwapSelectionBoundaries" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="GotoFile" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GotoNextIncompletePropertyAction">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="Images.Thumbnails.Hide">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+  </action>
+  <action id="NextProjectWindow" />
+  <action id="NextSplitter" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+  </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="SaveAll" />
+  <action id="SplitHorizontally" />
+  <action id="SplitVertically" />
+  <action id="Switcher" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UnsplitAll" />
+</keymap>
