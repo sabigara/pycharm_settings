@@ -147,6 +147,7 @@
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="back_quote" />
   </action>
+  <action id="HideActiveWindow" />
   <action id="Images.Thumbnails.EnterAction" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
