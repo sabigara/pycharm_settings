@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Flake8" description="Flake8" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/works/user-admin/venv/bin/flake8" />
+      <option name="PARAMETERS" value="$FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/works/user-admin/venv/bin" />
+    </exec>
+  </tool>
+</toolSet>
