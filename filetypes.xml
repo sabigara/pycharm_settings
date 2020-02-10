@@ -13,6 +13,7 @@
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping ext="sqlite3" type="DTD" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping pattern="nya" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="ALDS_1_1" type="Python" />
